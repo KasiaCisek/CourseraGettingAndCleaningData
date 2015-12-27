@@ -1,7 +1,7 @@
 # CodeBook
-This file describes the variables, the data, and transformations or work that were performed to clean up the data resulting in the tidydata.txt file.
+This file describes the columns, the data source, and transformations that were performed to clean up the data resulting in the tidydata.txt file.
 
-## Variables
+## Columns
 * [1] Activity
 * [2] Subject 
 * [3] tBodyAccMeanX
