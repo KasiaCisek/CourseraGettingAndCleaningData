@@ -85,7 +85,7 @@ This file describes the variables, the data, and transformations or work that we
 * [81] fBodyBodyGyroJerkMagMeanFreq
 
 ## Original Data
-The original data were obtained at https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip.
+The original data was obtained at https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip.
 
 ## Transformations
 The original Test and Training files were bound together, the columns were narrowed down to Means and Standard Deviations, and a mean was calculated for each measurment per Activity/Subject.
