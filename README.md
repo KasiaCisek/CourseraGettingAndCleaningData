@@ -8,6 +8,6 @@ The repository for Getting and Cleaning Data class project. Running the run_anal
 * Load and bind Train data - load X_train.txt, y_train.txt and subject_train.txt data and bind it in one data frame
 * Load and bind Test data - load X_test.txt, y_test and subject_test.txt data and bind it in one data frame
 * Bind Train and Test data - bind the train and test data frames together and supply them with column names
-* Convert Activity and Subject to factors - converts the Activity and Subject columns to factors
-* Melt data and calculate Means - melts the data using Activity and Subject, and calculate the corresponding means
+* Convert Activity and Subject to factors - convert the Activity and Subject columns to factors
+* Melt data and calculate Means - melt the data using Activity and Subject, and calculate the corresponding means
 * Save output - save the resulting data in the tidydata.txt file
